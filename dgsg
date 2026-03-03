@@ -1,0 +1,60 @@
+[33mcommit e86d84833c42d177bd99bbbbcfa177636a61b5c8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Author: Gerardo <geramos.2004@gmail.com>
+Date:   Fri Feb 27 10:29:16 2026 -0600
+
+    git 3 v2
+
+[33mcommit 61ad25e085d5b72ceea9eda0bb37752240cec078[m
+Author: Gerardo <geramos.2004@gmail.com>
+Date:   Fri Feb 27 10:27:52 2026 -0600
+
+    git 3 login
+
+[33mcommit f43d4f6cb20393491ebdf18515d15260206dfcaf[m
+Merge: 980c4b9 b747c84
+Author: Gerardo <geramos.2004@gmail.com>
+Date:   Fri Feb 27 10:20:48 2026 -0600
+
+    Merge branch 'main' into login
+
+[33mcommit b747c8453f108b9337095a17c618c0bd2ca2a2d8[m[33m ([m[1;32mmain[m[33m)[m
+Author: Gerardo <geramos.2004@gmail.com>
+Date:   Fri Feb 27 10:17:34 2026 -0600
+
+    v3
+
+[33mcommit 980c4b90f9d247d69821dafb913e19b58af9cb08[m
+Author: Gerardo <geramos.2004@gmail.com>
+Date:   Fri Feb 27 10:09:32 2026 -0600
+
+    login
+
+[33mcommit 98c1760c95d8e80923e62d18863862efdda42417[m
+Author: Gerardo <geramos.2004@gmail.com>
+Date:   Fri Feb 27 09:56:40 2026 -0600
+
+    este es mi quinto commit
+
+[33mcommit db58bc79721b85d8d7520eee3e82e0f7ca8726eb[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+Author: Gerardo <geramos.2004@gmail.com>
+Date:   Thu Feb 26 10:02:49 2026 -0600
+
+    se añade el gitgnore
+
+[33mcommit 775cb74d0325654d3af5f956e624a51f3752bf69[m
+Author: Gerardo <geramos.2004@gmail.com>
+Date:   Thu Feb 26 09:49:22 2026 -0600
+
+    holaaaaaaaaaaaaaa
+
+[33mcommit ad25491e12e94d2e58e6e2796db3eb221535d91f[m
+Author: Gerardo <geramos.2004@gmail.com>
+Date:   Tue Feb 24 10:42:00 2026 -0600
+
+    este es mi segundo commit
+
+[33mcommit f0ba313d6ef9ee00c54c51f5bef6b438e13e62e4[m
+Author: Gerardo <geramos.2004@gmail.com>
+Date:   Tue Feb 24 10:34:57 2026 -0600
+
+    este es mi primer commit
